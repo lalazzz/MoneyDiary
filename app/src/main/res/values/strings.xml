@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Expense Diary</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+
+    <string name="select_one">Select one</string>
+
+    <string-array name="Income_category_array">
+        <item>Salary</item>
+        <item>Bonus</item>
+        <item>Lottery</item>
+        <item>Allowance</item>
+        <item>Others</item>
+    </string-array>
+
+    <string-array name="Exp_category_array">
+        <item>Food</item>
+        <item>Shopping</item>
+        <item>Bills</item>
+        <item>Education</item>
+        <item>Others</item>
+    </string-array>
+
+</resources>
