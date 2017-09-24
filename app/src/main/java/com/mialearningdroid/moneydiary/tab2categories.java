@@ -17,8 +17,6 @@ public class tab2categories extends Fragment {
         View rootView = inflater.inflate(R.layout.tab2categories, container, false);
 
 
-
-
         return rootView;
     }
 }
